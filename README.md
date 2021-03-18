@@ -2,7 +2,7 @@
 My files for booting macOS Big Sur on the ASUS ROG Strix G712L laptop.
 
 ## DISCLAIMER:
-> macOS is a proprietary operating system provided by Apple for use on their devices. macOS must be obtained *legally* from your own Apple device. Any other method > of obtaining macOS is considered **piracy** and is *illegal*.
+> macOS is a proprietary operating system provided by Apple for use on their devices. macOS must be obtained *legally* from your own Apple device. Any other method of obtaining macOS is considered **piracy** and is *illegal*.
 
 ## Using this EFI
 Please read through the [OpenCore Installation Guide] in its entirety to gain an understanding of the process should something go wrong.
